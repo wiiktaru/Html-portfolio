@@ -1,0 +1,53 @@
+.title-background {
+  background-color: #6096b4;
+}
+
+h1 {
+  color: #eee9da;
+  font-family: "Dancing Script", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 80px;
+}
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #eee9da;
+  font-size: 2rem;
+}
+
+.footer {
+  background-color: #93bfcf;
+}
+
+.img-rocks {
+  border-radius: 30px;
+  height: 200px;
+}
+
+h2 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #bdcdd6;
+  font-size: 2rem;
+}
+
+p {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #bdcdd6;
+  font-size: 1.5rem;
+}
+
+.text-center {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: bold;
+  color: #6096b4;
+  font-size: 1rem;
+}
